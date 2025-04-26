@@ -6,6 +6,7 @@ c = "Hola " + str(a) + " tienes " + str(b)
 print(c)
 
 print("Carlos", "Jose", "Juan", sep="- ", end="#")
+
 """
 COMENTARIOS VARIAS LINEAS
 """
